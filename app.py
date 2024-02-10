@@ -1,3 +1,10 @@
+hide_st_style = """
+            <style>
+            #MainMenu {visibility:hidden;}
+            footer {visibility:hidden;}
+            header {visibility:hidden;}
+            </style>
+            """
 import streamlit as st
 import numpy as np
 from io import BytesIO
