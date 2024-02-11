@@ -4,5 +4,5 @@ Smart AI Based Solution to Farmers for predicting plant leaf diseases using deep
 WebApp link hosted on Streamlit Cloud 
 https://devcraftdevclashhackthon-2nxhbluraswhegoaw47x2x.streamlit.app/
 
-Model Predicted API Deploy on Googe Cloud
+Here the cloudfunctions where we can predict classification also using API or we can integrate into different APP
 https://us-central1-disease-prediction-413911.cloudfunctions.net/predict
