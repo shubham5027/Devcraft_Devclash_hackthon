@@ -8,3 +8,4 @@ Here the cloudfunctions where we can predict classification also using API or we
 https://us-central1-disease-prediction-413911.cloudfunctions.net/predict
 
 Kaggle Dataset Link: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+Hugging Face Spaces :https://huggingface.co/spaces/shubham5027/Farmify
