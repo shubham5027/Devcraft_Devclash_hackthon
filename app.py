@@ -18,7 +18,7 @@ import google.generativeai as genai
 load_dotenv()
 genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
 
-header_image_path = 'farmi.jpg'
+header_image_path = 'What.jpg'
 st.image(header_image_path, use_column_width='auto')
 
 
@@ -27,7 +27,7 @@ def get_gemini_repsonse(input,prompt):
     response=model.generate_content([input,prompt])
     return response.text
 
-input_prompt= """You are an farming expert and i want some remedial and preventive information about given tomato plant disease. give me remedial informaion for appropriate environmental condition , soil condition and what pesticides and fertilizers to use. give the information in such away that it is easy for a farmer to understand  if possible in hindi"""
+input_prompt= """You are an farming expert and i want some remedial and preventive information about given plant leaf disease. give me remedial informaion for appropriate environmental condition for that particular disease also soil condition and what pesticides and fertilizers required for that disease,give the information in such away that it is easy for a farmer to understand if possible in hindi,marathi and english."""
 
 MODEL = tf.keras.models.load_model('./potato_trained_models/1/')
 TOMATO_MODEL = tf.keras.models.load_model('./tomato_trained_models/1')
