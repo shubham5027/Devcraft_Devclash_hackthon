@@ -25,7 +25,8 @@ Hackthon Winner
 
 
 ![WhatsApp Image 2024-06-27 at 02 18 51_15271a2d](https://github.com/shubham5027/Devcraft_Devclash_hackthon/assets/132193443/089193ee-d29a-4df9-96d0-a4ea7137a29d)
-![Uploading WhatsApp Image 2024-06-27 at 02.18.51_59779648.jpg…]()
+![WhatsApp Image 2024-06-27 at 02 18 51_59779648](https://github.com/shubham5027/Devcraft_Devclash_hackthon/assets/132193443/f2ad43e1-9bd9-4be3-9cf1-d68c886afe24)
+
 
 
 
